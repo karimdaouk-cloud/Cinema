@@ -5,7 +5,7 @@ class Cinema {
 
     public Cinema(String name) {
         this.name = name;
-        this.movies = new Movie[10]; // Assuming a maximum of 10 movies for simplicity
+        this.movies = new Movie[10];
         this.movieCount = 0;
     }
 
