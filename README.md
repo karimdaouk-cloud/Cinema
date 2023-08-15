@@ -1,2 +1,2 @@
 # Cinema
-Cinema booking System using Java(final stage of implementation)
+Cinema booking System using Java programming language.
